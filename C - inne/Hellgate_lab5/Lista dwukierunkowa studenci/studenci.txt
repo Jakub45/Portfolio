@@ -1,0 +1,5 @@
+Jan Kowalski 2000 Warszawa 1500.50
+Anna Nowak 1999 Krakow 1800.75
+Piotr Zielinski 2001 Gdansk 1200.00
+Ewa Malinowska 2002 Wroclaw 1750.25
+Adam Nowicki 1998 Poznan 1600.00

@@ -1,0 +1,8 @@
+Steel is an alloy of iron and carbon with improved strength and fracture resistance compared to other forms of iron.
+Because of its high tensile strength and low cost, steel is one of the most commonly manufactured materials
+in the world. Steel is used in buildings, as concrete reinforcing rods, in bridges, infrastructure, tools,
+ships, trains, cars, bicycles, machines, electrical appliances, furniture, and weapons.
+Iron is always the main element in steel, but many other elements may be present or added. Stainless steels,
+which are resistant to corrosion and oxidation, typically are 11% chromium.
+Iron is the base metal of steel. Depending on the temperature, it can take two crystalline forms (allotropic forms):
+body-centred cubic and face-centred cubic.

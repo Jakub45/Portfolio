@@ -1,0 +1,42 @@
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build / output folders
+bin/
+obj/
+Debug/
+Release/
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.idb
+*.log
+
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py[cod]
+*.swp
+*.egg-info/
+dist/
+build/
+
+# OS-specific
+Thumbs.db
+.DS_Store
+
+# Temporary files
+*.tmp
+*.bak
+*.old

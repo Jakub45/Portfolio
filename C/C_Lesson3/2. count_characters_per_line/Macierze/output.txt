@@ -1,0 +1,8 @@
+0 || Duze = 1 || male = 95 || wszystkie = 116 || Steel is an alloy of iron and carbon with improved strength and fracture resistance compared to other forms of iron.
+1 || Duze = 1 || male = 88 || wszystkie = 107 || Because of its high tensile strength and low cost, steel is one of the most commonly manufactured materials
+2 || Duze = 1 || male = 84 || wszystkie = 106 || in the world. Steel is used in buildings, as concrete reinforcing rods, in bridges, infrastructure, tools,
+3 || Duze = 0 || male = 70 || wszystkie = 87 || ships, trains, cars, bicycles, machines, electrical appliances, furniture, and weapons.
+4 || Duze = 2 || male = 85 || wszystkie = 108 || Iron is always the main element in steel, but many other elements may be present or added. Stainless steels,
+5 || Duze = 0 || male = 60 || wszystkie = 75 || which are resistant to corrosion and oxidation, typically are 11% chromium.
+6 || Duze = 2 || male = 91 || wszystkie = 116 || Iron is the base metal of steel. Depending on the temperature, it can take two crystalline forms (allotropic forms):
+7 || Duze = 0 || male = 35 || wszystkie = 42 || body-centred cubic and face-centred cubic.
